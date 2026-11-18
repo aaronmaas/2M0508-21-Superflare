@@ -92,10 +92,10 @@ constant-area, evolving-temperature scenario:
 
 | Method | Post-peak temperature | Peak temperature | Bolometric energy |
 |---|---|---|---|
-| Central wavelengths | $5250\ \mathrm{K}$ | $8741\ \mathrm{K}$ | $2.21\times10^{35}\ \mathrm{erg}$ |
-| Filter integrated | $5850\ \mathrm{K}$ | $10268\ \mathrm{K}$ | $3.73\times10^{35}\ \mathrm{erg}$ |
+| Central wavelengths | $5230\ \mathrm{K}$ | $8691\ \mathrm{K}$ | $2.29\times10^{35}\ \mathrm{erg}$ |
+| Filter integrated | $5380\ \mathrm{K}$ | $9032\ \mathrm{K}$ | $2.36\times10^{35}\ \mathrm{erg}$ |
 
-The post-peak temperature estimates differ by $600 \mathrm{K}$; the filter-integrated value is about 11% higher than the central-wavelength value.
+The post-peak temperature estimates differ by $150\ \mathrm{K}$; the filter-integrated value is about 2.9% higher. Its peak temperature is about 3.9% higher, while its bolometric energy is about 3.2% higher than the central-wavelength estimate.
 
 Using the stellar radius of $0.445 R_\odot$, the stellar surface area
 is $4\pi R_\star^2 \simeq 1.20\times10^{18} \mathrm{m}^2$. The inferred
@@ -104,10 +104,10 @@ stellar surface:
 
 | Method | Post-peak emitting area | Fraction of stellar surface |
 |---|---|---|
-| Central wavelengths | $2.37\times10^{17} \mathrm{m}^2$ | $0.197$ |
-| Filter integrated | $1.62\times10^{17} \mathrm{m}^2$ | $0.134$ |
+| Central wavelengths | $2.40\times10^{17} \mathrm{m}^2$ | $0.199$ |
+| Filter integrated | $2.18\times10^{17} \mathrm{m}^2$ | $0.181$ |
 
-The filter-integrated value is about 6.3% lower than the central-wavelength value. 
+The filter-integrated post-peak area is about 9.3% lower than the central-wavelength value.
 
 ## Flare timing
 
